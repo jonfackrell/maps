@@ -5,7 +5,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/jonfackrell/maps.svg?style=flat-square)](https://scrutinizer-ci.com/g/jonfackrell/maps)
 [![Total Downloads](https://img.shields.io/packagist/dt/jonfackrell/maps.svg?style=flat-square)](https://packagist.org/packages/jonfackrell/maps)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+This package adds Library mapping capability to your Laravel application.
 
 ## Installation
 
@@ -48,6 +48,3 @@ If you discover any security related issues, please email jon.fackrell@gmail.com
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-## Laravel Package Boilerplate
-
-This package was generated using the [Laravel Package Boilerplate](https://laravelpackageboilerplate.com).
